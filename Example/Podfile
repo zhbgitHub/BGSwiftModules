@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BGSwiftModules_Example' do
+  pod 'BGSwiftModules', :path => '../'
+
+  target 'BGSwiftModules_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
