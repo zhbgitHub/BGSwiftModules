@@ -2,7 +2,7 @@
 //  UITextField+Formatting.swift
 //  BaseSDK
 //
-//  Created by 张波 on 2017/12/12.
+//  Created by 张波 on 2017/10/23.
 //  Copyright © 2017年 com.TieBaoBei. All rights reserved.
 //
 
