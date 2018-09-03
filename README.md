@@ -1,6 +1,11 @@
 # BGSwiftModules
 
 > Swift项目中一些抽离的方法。扩展，技巧
+
+## UITextField输入时格式化限制示例gif
+![image](https://github.com/zhbgitHub/SwiftModules/blob/master/UITextField.gif)
+
+
 1. 自动布局 更改multiplier的值
 2. String的扩展
     * 截取字符串[from,to)前闭后开
