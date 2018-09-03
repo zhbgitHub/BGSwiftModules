@@ -1,0 +1,25 @@
+PODS:
+  - BGSwiftModules (0.1.0):
+    - SDWebImage
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+
+DEPENDENCIES:
+  - BGSwiftModules (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  BGSwiftModules:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BGSwiftModules: fd5752aa8f3967b7d54ea207e24a430451874639
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+
+PODFILE CHECKSUM: abb5cce4a65926724486b2fd43fdfad7151e5fab
+
+COCOAPODS: 1.5.0

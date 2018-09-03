@@ -1,0 +1,6 @@
+framework module BGSwiftModules {
+  umbrella header "BGSwiftModules-umbrella.h"
+
+  export *
+  module * { export * }
+}
